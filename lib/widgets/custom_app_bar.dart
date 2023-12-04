@@ -14,8 +14,8 @@ class CustomAppBAr extends StatelessWidget {
           style: const TextStyle(fontSize: 32),
         ),
         Container(
-          height: 50,
-          width: 50,
+          height: 45,
+          width: 45,
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(16),
             color: Colors.white.withOpacity(.1),
